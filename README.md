@@ -1,4 +1,22 @@
-## Hi there 👋
+## Hi I'm Aditya Anurag
+
+## ✨ About Me
+
+I am Aditya Anurag, a passionate and curious web developer, currently in my pre final year of engineering. I’m actively building full stack projects and exploring new technologies in Web Development. I am very keen to learn new technologies and use them to either create something useful or improve the existing softwares.
+
+🌱 I’m currently learning:
+
+- ⚛️ React.js and frontend architecture
+
+- 🧠 Data Structures & Algorithms in Java
+
+- ☁️ Basics of Cloud Deployment
+
+- 🧩 System Design principles
+
+- 🕹️ Integrating IoT with cloud-based apps
+
+⚡ Fun fact: I love connecting with people and learning about their journeys it broadens my thinking and gives me fresh perspectives.
 
 <!--
 **adityaanurag0219/adityaanurag0219** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,7 +30,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 
 -->
 
 
